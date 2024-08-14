@@ -20,7 +20,7 @@ It is a simple digital white board built using HTML, CSS and Javascript. It has 
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-
+#happy coding
 ## Screenshots
 
 <img src="./Screenshots/ss1.png" />
